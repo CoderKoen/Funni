@@ -35,6 +35,6 @@ elif physics_program == "Acceleration" or physics_program == "a"
     num_Change_t_acc = int(Change_t_acc)
     a = Change_v_acc/Change_t_acc
     print(a)
-    print(m/s^2)
+    print("m/s^2")
 
        
