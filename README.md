@@ -1,2 +1,2 @@
 # Funni
-I make stuff (Idk what i'm doing)
+I make stuff (I kinda know what i'm doing)
