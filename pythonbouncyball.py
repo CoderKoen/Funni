@@ -1,4 +1,4 @@
-//to run this just put it into your Processing py document and run
+#to run this just put it into your Processing py document and run
 y = 100
 vy = 0
 g = 0.05
