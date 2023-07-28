@@ -1,5 +1,6 @@
 //this is Java NOT JavaScript
 //using Processing to make this :)
+//to run this just put it into your Processing document and run
 void setup(){
   size(400,400);
 }
