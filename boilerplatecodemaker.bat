@@ -2,7 +2,7 @@
 echo Making your file...
 set /p Input=What do you want your file to be named: 
 set /p Dir=In which directory do you want to save it: 
-set /p Code=What programming language (C, C#, HTML):
+set /p Code=What programming language (C, C#, HTML, Java):
 
 
 if /i "%Code%"=="C" (
